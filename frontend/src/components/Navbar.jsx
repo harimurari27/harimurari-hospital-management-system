@@ -37,7 +37,7 @@ const Navbar = () => {
           <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
         </NavLink>
         <li className='py-1 px-3 text-black-500 cursor-pointer border border-black rounded'
-          onClick={() => window.open('https://doctor-appointment-admin-v9b3.onrender.com', '_blank')}>
+          onClick={() => window.open('https://hospital-management-system-10-a118.onrender.com', '_blank')}>
           ADMIN PANEL
         </li>
       </ul>
